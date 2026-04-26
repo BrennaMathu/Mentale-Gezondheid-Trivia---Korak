@@ -11,6 +11,10 @@ public class QuestionManager : MonoBehaviour
     private TextMeshProUGUI questionText;
     [SerializeField]
     private AnswerButton[] answerButtons;
+    [SerializeField]
+    private TextMeshProUGUI explanationText;
+    [SerializeField]
+    private TextMeshProUGUI referenceText;
 
     [Header("Data")]
     [SerializeField]
@@ -54,6 +58,10 @@ public class QuestionManager : MonoBehaviour
         categoryText.text = currentQuestion.category;
         //set the question text to the current question.
         questionText.text = currentQuestion.question;
+        //set the explanation text to the current explanation.
+        explanationText.text = currentQuestion.explanation;
+        //set the reference text to the current reference.
+        referenceText.text = currentQuestion.reference;
     }
 
     private void SetAnswerValues()

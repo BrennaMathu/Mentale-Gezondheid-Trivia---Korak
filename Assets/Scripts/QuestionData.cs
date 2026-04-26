@@ -7,4 +7,6 @@ public class QuestionData : ScriptableObject
     public string question;
     [Tooltip("4 answers, put correct answer first")]
     public string[] answers;
+    public string explanation;
+    public string reference;
 }
