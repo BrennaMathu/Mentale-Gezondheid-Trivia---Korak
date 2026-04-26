@@ -1,0 +1,127 @@
+using TMPro;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class GameManager : MonoBehaviour
+{
+    [SerializeField]
+    private QuestionManager questionManager;
+    
+    [SerializeField]
+    private Button[] answerButtons;
+    public float answerCoolDown;
+    
+    [Header("Answer Panel")]
+    [SerializeField]
+    private GameObject answerPanel;
+    [SerializeField] 
+    private GameObject nextQuestionButton;
+    [SerializeField]
+    private GameObject restartButton;
+    
+    [SerializeField] 
+    private Image answerPanelStripes;
+    [SerializeField] private Color32 correctColor;
+    [SerializeField] private Color32 incorrectColor;
+   
+
+    [Header("Scoring")]
+    private int score;
+    private int highScore;
+    [SerializeField]
+    private TextMeshProUGUI scoreText;
+    [SerializeField]
+    private TextMeshProUGUI highScoreText;
+    
+    [Header("Questions Finished Panel")]
+    [SerializeField]
+    private GameObject finishedQuestionsPanel;
+    
+    //Opens the answerPanel for a correct answer and updates the score.
+    public void AnsweredCorrectly()
+    {
+        answerPanel.SetActive(true);
+        answerPanelStripes.color = correctColor;
+        nextQuestionButton.SetActive(true);
+        
+        UpdateScore();
+    }
+
+    //Opens the answerPanel for an incorrect answer.
+    public void AnsweredIncorrectly()
+    {
+        answerPanel.SetActive(true);
+        answerPanelStripes.color = incorrectColor;
+        restartButton.SetActive(true);
+    }
+
+    //resets the buttons and answerPanel and cycles to the next question unless there aren't any left.
+    public void NextQuestion()
+    {
+        SetButtonsActive();
+        AnswerPanelInactive();
+        if (questionManager.questions.Count > 0)
+        {
+            questionManager.NextQuestion();
+        }
+        else {AllQuestionsFinished();}
+    }
+
+    //resets the score, scoreText, buttons and both panels to default. Also restarts the questionManager.
+    public void Restart()
+    {
+        score = 0;
+        scoreText.text = "Score: " + score;
+        SetButtonsActive();
+        AnswerPanelInactive();
+        finishedQuestionsPanel.SetActive(false);
+        questionManager.RestartQuestions();
+    }
+
+    //sets the finished panel active.
+    public void AllQuestionsFinished()
+    {
+        finishedQuestionsPanel.SetActive(true);
+    }
+    
+    //Sets every button other than the clicked button inactive to prevent double-clicking. Is called by the clicked AnswerButton.
+    public void SetOtherButtonsInactive(Button clickedButton)
+    {
+        foreach (Button button in answerButtons)
+        {
+            if (button != clickedButton)
+            {
+                button.interactable = false;
+            }
+        }
+    }
+
+    //Sets all buttons active when a new question is loaded.
+    private void SetButtonsActive()
+    {
+        foreach (Button button in answerButtons)
+        {
+            button.interactable = true;
+        }
+    }
+    
+    //sets all elements of the answerPanel inactive.
+    private void AnswerPanelInactive()
+    {
+        nextQuestionButton.SetActive(false);
+        restartButton.SetActive(false);
+        answerPanel.SetActive(false);
+    }
+
+    //adds one to the score and the highScore if needed. Updates both of the texts.
+    private void UpdateScore()
+    {
+        score++;
+        scoreText.text = "Score: " + score;
+        if (score > highScore)
+        {
+            highScore = score;
+            highScoreText.text = "High Score: " + highScore;
+        }
+    }
+}

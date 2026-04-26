@@ -17,8 +17,7 @@ public class QuestionManager : MonoBehaviour
     private TextMeshProUGUI referenceText;
 
     [Header("Data")]
-    [SerializeField]
-    private List<QuestionData> questions;
+    public List<QuestionData> questions;
     private QuestionData currentQuestion;
     [SerializeField] 
     private int correctAnswerChoice;
@@ -31,9 +30,7 @@ public class QuestionManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        SelectNewQuestion();
-        SetQuestionValues();
-        SetAnswerValues();
+        NextQuestion();
     }
 
     private void GetQuestions()
@@ -42,6 +39,22 @@ public class QuestionManager : MonoBehaviour
         questions = new List<QuestionData>(Resources.LoadAll<QuestionData>("Questions"));
     }
 
+    //Gets all the questions and goes to a question.
+    public void RestartQuestions()
+    {
+        GetQuestions();
+        NextQuestion();
+    }
+
+    //prepares a new question
+    public void NextQuestion()
+    {
+        SelectNewQuestion();
+        SetQuestionValues();
+        SetAnswerValues();
+    }
+
+    //selects a random question from the list and assigns it to currentQuestion.
     private void SelectNewQuestion()
     {
         //Get a random value to choose a question with.
@@ -52,6 +65,7 @@ public class QuestionManager : MonoBehaviour
         questions.RemoveAt(randomQuestion);
     }
 
+    //Send the question values to the corresponding UI parts.
     private void SetQuestionValues()
     {
         //set the category text to the current category.
@@ -64,6 +78,7 @@ public class QuestionManager : MonoBehaviour
         referenceText.text = currentQuestion.reference;
     }
 
+    //Tells the AnswerButtons what order to put the answers in and if the answers are correct or not.
     private void SetAnswerValues()
     {
         //randomize the order the answers of the currentQuestion appear in.
@@ -82,6 +97,7 @@ public class QuestionManager : MonoBehaviour
         }
     }
 
+    //Puts the answers in a random order while saving the one that's correct to the correctAnswer integer.
     private List<string> RandomAnswers(List<string> originalAnswers)
     {
         //answer is wrong unless found otherwise later.
