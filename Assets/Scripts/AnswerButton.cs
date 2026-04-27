@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class AnswerButton : MonoBehaviour
 {
     //is told by the questionmanager if this answer is correct or wrong.
-    private bool correctAnswer;
+    public bool correctAnswer;
     //reference to the text that displays the answer.
     [SerializeField]
     private TextMeshProUGUI answerText;

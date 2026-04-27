@@ -6,6 +6,8 @@ public class GameManager : MonoBehaviour
 {
     [SerializeField]
     private QuestionManager questionManager;
+    [SerializeField]
+    private PowerUpManager powerUpManager;
     
     [SerializeField]
     private Button[] answerButtons;
@@ -43,7 +45,7 @@ public class GameManager : MonoBehaviour
         answerPanel.SetActive(true);
         answerPanelStripes.color = correctColor;
         nextQuestionButton.SetActive(true);
-        
+        powerUpManager.ChangeCoinValue(powerUpManager.coinRewardValue);
         UpdateScore();
     }
 
@@ -72,6 +74,7 @@ public class GameManager : MonoBehaviour
     {
         score = 0;
         scoreText.text = "Score: " + score;
+        powerUpManager.ChangeCoinValue(-powerUpManager.coinValue);
         SetButtonsActive();
         AnswerPanelInactive();
         finishedQuestionsPanel.SetActive(false);
