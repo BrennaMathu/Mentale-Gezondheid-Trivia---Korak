@@ -326,7 +326,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -2378960176419650174, guid: 8225a00f160b88c46b77405fd6b5301a, type: 3}
+  m_Sprite: {fileID: -8310263815044249685, guid: 0da9c5045972ded40bde9ab5d47e9306, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -995,10 +995,10 @@ MonoBehaviour:
   answerPanelStripes: {fileID: 1697000497}
   correctColor:
     serializedVersion: 2
-    rgba: 4288921691
+    rgba: 4283020357
   incorrectColor:
     serializedVersion: 2
-    rgba: 4283792614
+    rgba: 4282465485
   scoreText: {fileID: 1935764868}
   highScoreText: {fileID: 2090422879}
   finishedQuestionsPanel: {fileID: 655521530}
@@ -2546,7 +2546,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 2334823501673702741, guid: 9aab62dd8ff38994eb75a6c3ce3b8ea3, type: 3}
+  m_Sprite: {fileID: -1133577367388519348, guid: 5fe175f8a6fd8984696b81d053a9433a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2924,7 +2924,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -2378960176419650174, guid: 8225a00f160b88c46b77405fd6b5301a, type: 3}
+  m_Sprite: {fileID: -8310263815044249685, guid: 0da9c5045972ded40bde9ab5d47e9306, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
