@@ -1,4 +1,7 @@
+using System;
+using System.Collections;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -35,13 +38,15 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private TextMeshProUGUI highScoreText;
     
-    [Header("Questions Finished Panel")]
+    [Header("Questions Finished")]
     [SerializeField]
     private GameObject finishedQuestionsPanel;
+    public static event Action QuestionsFinished;
     
     //Opens the answerPanel for a correct answer and updates the score.
-    public void AnsweredCorrectly()
+    public IEnumerator AnsweredCorrectly()
     {
+        yield return new WaitForSeconds(answerCoolDown);
         answerPanel.SetActive(true);
         answerPanelStripes.color = correctColor;
         nextQuestionButton.SetActive(true);
@@ -50,8 +55,9 @@ public class GameManager : MonoBehaviour
     }
 
     //Opens the answerPanel for an incorrect answer.
-    public void AnsweredIncorrectly()
+    public IEnumerator AnsweredIncorrectly()
     {
+        yield return new WaitForSeconds(answerCoolDown);
         answerPanel.SetActive(true);
         answerPanelStripes.color = incorrectColor;
         restartButton.SetActive(true);
@@ -85,6 +91,7 @@ public class GameManager : MonoBehaviour
     public void AllQuestionsFinished()
     {
         finishedQuestionsPanel.SetActive(true);
+        QuestionsFinished?.Invoke();
     }
     
     //Sets every button other than the clicked button inactive to prevent double-clicking. Is called by the clicked AnswerButton.
@@ -105,6 +112,7 @@ public class GameManager : MonoBehaviour
         foreach (Button button in answerButtons)
         {
             button.interactable = true;
+            button.gameObject.GetComponent<Image>().color = Color.white;
         }
     }
     
@@ -126,5 +134,20 @@ public class GameManager : MonoBehaviour
             highScore = score;
             highScoreText.text = "High Score: " + highScore;
         }
+    }
+
+    private void OnEnable()
+    {
+        AnswerButton.CorrectAnswerAction += StartAnsweredCorrectly;
+        AnswerButton.IncorrectAnswerAction += StartAnsweredIncorrectly;
+    }
+
+    private void StartAnsweredCorrectly() { StartCoroutine(AnsweredCorrectly()); }
+    private void StartAnsweredIncorrectly() { StartCoroutine(AnsweredIncorrectly()); }
+
+    private void OnDisable()
+    {
+        AnswerButton.CorrectAnswerAction -= StartAnsweredCorrectly;
+        AnswerButton.IncorrectAnswerAction -= StartAnsweredIncorrectly;
     }
 }
