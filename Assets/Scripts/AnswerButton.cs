@@ -34,6 +34,12 @@ public class AnswerButton : MonoBehaviour
         correctAnswer = newCorrectAnswer;
     }
 
+    public void SetActiveOrInactive(bool active)
+    {
+        if (active){thisButton.interactable = true;}
+        else{thisButton.interactable = false;}
+    }
+
     //method called when button is clicked. Checks if the answer ir correct or not and invokes the corresponding event.
     //Also sets the other buttons un-interactable and colours the clicked button.
     public void OnClick()

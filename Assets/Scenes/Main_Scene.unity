@@ -3333,6 +3333,7 @@ MonoBehaviour:
   referenceText: {fileID: 1450902716}
   questions: []
   correctAnswerChoice: 0
+  halfChanceButton: {fileID: 274766324}
 --- !u!4 &1796093228
 Transform:
   m_ObjectHideFlags: 0

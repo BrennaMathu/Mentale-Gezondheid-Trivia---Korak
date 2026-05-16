@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.UI;
 
 public class QuestionManager : MonoBehaviour
 {
@@ -21,6 +22,8 @@ public class QuestionManager : MonoBehaviour
     private QuestionData currentQuestion;
     [SerializeField] 
     private int correctAnswerChoice;
+    
+    public Button halfChanceButton;
 
     private void Awake()
     {
@@ -49,6 +52,13 @@ public class QuestionManager : MonoBehaviour
     //prepares a new question
     public void NextQuestion()
     {
+        //make sure all the buttons are interactable.
+        for (int i = 0; i < answerButtons.Length; i++)
+        {
+            answerButtons[i].SetActiveOrInactive(true);
+        }
+        //make sure the half chance powerup is active.
+        halfChanceButton.interactable = true;
         SelectNewQuestion();
         SetQuestionValues();
         SetAnswerValues();
@@ -90,7 +100,15 @@ public class QuestionManager : MonoBehaviour
             bool isCorrect = false;
             //set boolean to true if it's the correct answer.
             if (i == correctAnswerChoice) { isCorrect = true; }
-            
+
+            //if the question only has two possible answers
+            if (answers[i] == "X")
+            {
+                //tell the answerButton to set it inactive
+                answerButtons[i].SetActiveOrInactive(false);
+                //Set the power-up button to inactive.
+                halfChanceButton.interactable = false;
+            }
             //pass the information along to the corresponding button.
             answerButtons[i].SetCorrectAnswer(isCorrect);
             answerButtons[i].SetAnswerText(answers[i]);
