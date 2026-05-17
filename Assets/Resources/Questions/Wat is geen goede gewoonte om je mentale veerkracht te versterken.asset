@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Wat is geen goede gewoonte om je mentale veerkracht te versterken
+  m_EditorClassIdentifier: 
+  category: Persoonlijke ontwikkeling
+  question: Wat is geen goede gewoonte om je mentale veerkracht te versterken?
+  answers:
+  - Regelmatig net over je grens gaan.
+  - Regelmatig ademhalingsoefeningen doen.
+  - Rust tijd inplannen.
+  - Iedere dag contact hebben met een mens of dier.
+  explanation: '"Regelmatig over je grens gaan zorgt meestal juist voor uitputting
+    en verzwakte veerkracht. In sommige gevallen is het wel aan te raden om regelmatig
+    ove je grens heen te gaan'
+  reference: ' maar het is verstandig om dat onder begeleiding te doen. Voor meer
+    tips om je veerkracht te vertserken kan je hier kijken: https://traumanet.nl/infotheek/dagelijkse-gewoontes-die-veerkracht-versterken/"'

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Wat is de beste manier om goed te worden in Mindfullness
+  m_EditorClassIdentifier: 
+  category: Spiritualiteit
+  question: Wat is de beste manier om goed te worden in Mindfullness?
+  answers:
+  - Als je regelmatig oefent.
+  - Als je er talent voor hebt.
+  - Als je altijd lang mediteert.
+  - Als je streng bent voor jezelf.
+  explanation: 'Het belangrijkste is dat je vaak oefent. Beter vaak kort dan soms
+    lang. Sommige mensen zijn beter in mindfullness dan anderen maar oefenen is veel
+    belangrijker. Streng zijn voor jezelf werkt averechts. Lichte ontspanning en
+    acceptatie zijn essentieel. Hier kan je tips vinden: https://demindfulnessacademie.nl/5-tips-om-weer-te-beginnen-met-mindfulness/'
+  reference: 'Interesse in mindfullness? Korak heeft meerdere cursussen: https://korak.nl/programmas?categorie=spiritualiteit'

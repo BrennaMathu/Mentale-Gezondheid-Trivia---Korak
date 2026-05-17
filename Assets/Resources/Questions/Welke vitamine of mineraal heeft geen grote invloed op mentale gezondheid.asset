@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Welke vitamine of mineraal heeft geen grote invloed op mentale gezondheid
+  m_EditorClassIdentifier: 
+  category: Vitaliteit
+  question: Welke vitamine of mineraal heeft geen grote invloed op mentale gezondheid?
+  answers:
+  - Vitamine A.
+  - Magnesium.
+  - Calcium.
+  - Vitamine B.
+  explanation: '"Vitamine A is wel belangrijk maar heeft geen directe invloed op
+    mentale gezondheid. Magnesium heeft grote invloed op prikkelverwerking. Calcium
+    helpt bij het opnemen van energie uit voedingsstoffen. Vitamine B heeft invloed
+    op de mentale veerkracht en gemoedstoestand. Pas op met zelf supplementen nemen'
+  reference: ' teveel binnenkrijgen heeft vaak ook negatieve effecten. Als je wilt
+    weten of supplementen je mentale gezondheid kunnen verbeteren kun je het beste
+    naar de huisarts gaan. Je kan wel zelf checken of je met je eten en drinken de
+    juiste voedingsstoffen binnenkrijgt. Dit artikel is een goede start: https://www.ggznieuws.nl/het-belang-van-gezonde-voeding-vitamines-en-mineralen-voor-mentale-gezondheid/"'

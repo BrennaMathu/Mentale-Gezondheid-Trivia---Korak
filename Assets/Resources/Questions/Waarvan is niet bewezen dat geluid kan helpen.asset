@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Waarvan is niet bewezen dat geluid kan helpen
+  m_EditorClassIdentifier: 
+  category: Spiritualiteit
+  question: Waarvan is niet bewezen dat geluid kan helpen?
+  answers:
+  - De griep verhelpen.
+  - Ademhaling verdiepen.
+  - Stresshormonen verlagen.
+  - Spierontspanning bevorderen.
+  explanation: 'Verschillende toonhoogtes hebben andere effecten op mensen en het
+    kan veel helpen bij het ontspannen. Naar toonhoogtes luisteren geeft veel mensen
+    een gvoel van rust. Er is natuurijk wel een limiet hieraan. Het kan geen medische
+    behandeling vervangen. Hier kun je meer leren over die verschillende klanken:
+    https://holistischgeneescentrum.com/helende-frequenties/'
+  reference: 'Interesse in ontspannen met een geluidservaring? Korak heeft hier workshops
+    voor: https://korak.nl/programmas?categorie=spiritualiteit'

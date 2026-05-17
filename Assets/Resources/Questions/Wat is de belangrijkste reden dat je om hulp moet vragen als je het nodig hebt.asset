@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Wat is de belangrijkste reden dat je om hulp moet vragen als je het nodig
+    hebt
+  m_EditorClassIdentifier: 
+  category: Persoonlijke ontwikkeling
+  question: Wat is de belangrijkste reden dat je om hulp moet vragen als je het nodig
+    hebt?
+  answers:
+  - Anders weten mensen niet waar hulp nodig is.
+  - Mensen willen geen inbreuk maken op privacy door hulp te bieden.
+  - Je kwetsbaarheden tonen kan je bond met de ander versterken.
+  - Mensen weten niet of je hulp wil.
+  explanation: 'Alle antwoorden zijn een reden dat mensen het moeilijk vinden om
+    hulp aan te bieden als er niet om gevraagd is. De belangrijkste is dat mensen
+    vaak niet weten welke hulp je nodig hebt. Mensen dicht om je heen zien het vaak
+    wel als er iets niet goed gaat. Maar alleen jij weet waarom en kan goed inschatten
+    wat je nodig hebt. Hier zijn wat tips om om hulp vragen makkelijker te maken:
+    https://www.psychologie.nl/artikel/hulp-vragen-zo-wordt-de-drempel-lager/'
+  reference: 'Korak heeft verschillende cursussen die je kunnen helpen met ontdekken
+    waar je hulp bij kan gebruiken: https://korak.nl/programmas?categorie=persoonlijke-ontwikkeling'
