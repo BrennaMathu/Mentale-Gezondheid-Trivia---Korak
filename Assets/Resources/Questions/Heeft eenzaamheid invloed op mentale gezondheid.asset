@@ -21,5 +21,6 @@ MonoBehaviour:
   - X
   explanation: 'Eenzaamheid komt vaak voor bij mensen met mentale gezondheidsproblemen
     en eenzame mensen hebben ook een grotere kans om mentale problemen te ontwikkelen. '
-  reference: 'Zoek je mensen om activiteiten mee te ondernemen? Korak heeft voor
-    ieder wat wils: https://korak.nl/programmas'
+  reference: Zoek je mensen om activiteiten mee te ondernemen? Korak heeft voor ieder
+    wat wils! Klik <color=blue><u><link=https://korak.nl/programmas>hier</link></u></color>
+    om het programma te bekijken.

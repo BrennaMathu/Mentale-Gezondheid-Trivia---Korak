@@ -19,8 +19,10 @@ MonoBehaviour:
   - Als je er talent voor hebt.
   - Als je altijd lang mediteert.
   - Als je streng bent voor jezelf.
-  explanation: 'Het belangrijkste is dat je vaak oefent. Beter vaak kort dan soms
+  explanation: Het belangrijkste is dat je vaak oefent. Beter vaak kort dan soms
     lang. Sommige mensen zijn beter in mindfullness dan anderen maar oefenen is veel
     belangrijker. Streng zijn voor jezelf werkt averechts. Lichte ontspanning en
-    acceptatie zijn essentieel. Hier kan je tips vinden: https://demindfulnessacademie.nl/5-tips-om-weer-te-beginnen-met-mindfulness/'
-  reference: 'Interesse in mindfullness? Korak heeft meerdere cursussen: https://korak.nl/programmas?categorie=spiritualiteit'
+    acceptatie zijn essentieel. Klik <color=blue><u><link=https://demindfulnessacademie.nl/5-tips-om-weer-te-beginnen-met-mindfulness/>hier</link></u></color>
+    voor tips om te beginnen met mindfullnes.
+  reference: 'Interesse in mindfullness? Korak heeft meerdere cursussen: <color=blue><u><link=https://korak.nl/programmas?categorie=spiritualiteit>mindfullness
+    cursussen</link></u></color>'

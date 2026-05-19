@@ -19,11 +19,12 @@ MonoBehaviour:
   - Je denkt minder na.
   - Door sneller ademen functioneert je brein beter.
   - Het verbetert je concentratie.
-  explanation: 'Langzamere ademhaling leidt tot een lagere hartslag waardoor stress
+  explanation: Langzamere ademhaling leidt tot een lagere hartslag waardoor stress
     afneemt. Hierdoor kan je brein helderder denken. Bij een snelle ademhaling gaat
     je brein vooral sneller denken en niet beter. Ademhalingsoefeningen zorgen niet
     dat je minder nadenkt. Ademhalingsoefeningen kunnen je concentratie waarschijnlijk
-    wel verbeteren maar dat helpt niet direct met stress. In dit artikel kan je hier
-    meer over lezen: https://www.universiteitleiden.nl/nieuws/2023/12/hoe-langzamer-ademen-echt-helpt-tegen-stress'
-  reference: 'Korak heeft cursussen waar ademhaling een onderdeel van is. Yoga bijvoorbeeld:
-    https://korak.nl/programmas?categorie=vitaliteit'
+    wel verbeteren maar dat helpt niet direct met stress. In <color=blue><u><link=https://www.universiteitleiden.nl/nieuws/2023/12/hoe-langzamer-ademen-echt-helpt-tegen-stress>dit</link></u></color>
+    artikel kan je hier meer over lezen.
+  reference: Korak heeft cursussen waar ademhaling een onderdeel van is. Yoga bijvoorbeeld.
+    Klik <color=blue><u><link=https://korak.nl/programmas?categorie=vitaliteit>hier</link></u></color>
+    om de opties die Korak heeft te bekijken.

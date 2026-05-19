@@ -19,6 +19,7 @@ MonoBehaviour:
   - 25%
   - 75%
   - 100%
-  explanation: 'Mensen onderschatten of iemand ze wil helpen als ze daarom vragen
-    met 50% volgens een onderzoek van Stanford : https://psycnet.apa.org/record/2008-08084-009'
+  explanation: Mensen onderschatten of iemand ze wil helpen als ze daarom vragen
+    met 50% volgens <color=blue><u><link=https://psycnet.apa.org/record/2008-08084-009>een
+    onderzoek van Stanford.</link></u></color>
   reference: 

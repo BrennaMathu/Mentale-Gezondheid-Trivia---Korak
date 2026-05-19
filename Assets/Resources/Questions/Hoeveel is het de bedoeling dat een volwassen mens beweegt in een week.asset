@@ -19,10 +19,10 @@ MonoBehaviour:
   - 1 uur.
   - 1.5 uur.
   - 4 uur.
-  explanation: 'Volgens het kenniscentrum sport en bewegen is het voor een volwassen
+  explanation: Volgens het kenniscentrum sport en bewegen is het voor een volwassen
     mens het best om 2.5 uur per week te bewegen. Deze richtlijn bevat ook bot- en
     spierversterkende activiteiten twee keer per week. Het is niet erg als dit (nog)
-    niet lukt. Ieder beetje bewegen helpt al! Hier kun je meer lezen over de richtlijnen:
-    https://www.kenniscentrumsportenbewegen.nl/beweegrichtlijnen/#beweegrichtlijnen'
-  reference: 'Wil je laagdrempelig bewegen met anderen? Korak heeft hier meerdere
-    opties voor: https://korak.nl/programmas?categorie=vitaliteit'
+    niet lukt. Ieder beetje bewegen helpt al! Klik <color=blue><u><link=https://www.kenniscentrumsportenbewegen.nl/beweegrichtlijnen/#beweegrichtlijnen>hier</link></u></color>
+    om meer te lezen over de richtlijnen.
+  reference: Wil je laagdrempelig bewegen met anderen? Klik <color=blue><u><link=https://korak.nl/programmas?categorie=vitaliteit>hier</link></u></color>
+    om de opties die Korak heeft te bekijken.

@@ -21,6 +21,7 @@ MonoBehaviour:
   - 6%
   - 14%
   - 36%
-  explanation: Volgens een onderzoek van het trimbos instituut (https://www.trimbos.nl/kennis/cijfers/psychische-gezondheid-ggz/)
-    heeft 48% van de mensen een keer in hun leven last van een psychische aandoening.
+  explanation: Volgens <color=blue><u><link=https://www.trimbos.nl/kennis/cijfers/psychische-gezondheid-ggz/>een
+    onderzoek van het trimbos instituut</link></u></color> heeft 48% van de mensen
+    een keer in hun leven last van een psychische aandoening.
   reference: 

@@ -19,10 +19,11 @@ MonoBehaviour:
   - Ze helpen met het verkennen van je emoties.
   - Het geeft een gevoel van voldoening.
   - Het verhoogt zelfvertrouwen.
-  explanation: 'Er zijn wel mensen die je meer respecteren als je aan creatieve activiteiten
+  explanation: Er zijn wel mensen die je meer respecteren als je aan creatieve activiteiten
     doet maar dit is niet iets dat je mentale gezondheid sterk verbetert. Ze helpen
     wel het verkennen van emoties en ze geven zelfvertrouwen en een gevoel van voldoening.
     Als je meer wilt lezen over hoe creativiteit mentale gezondheid verbeterd kan
-    dat hier: https://mentalhealth-uk.org/news-and-insights/why-creativity-is-important-for-your-mental-health/'
-  reference: 'Wil je beginnen met creatieve activiteiten? Korak heeft meerdere opties:
-    https://korak.nl/programmas?categorie=creativiteit'
+    dat <color=blue><u><link=https://mentalhealth-uk.org/news-and-insights/why-creativity-is-important-for-your-mental-health/>hier.</link></u></color>
+  reference: Wil je beginnen met creatieve activiteiten? Korak heeft meerdere opties.
+    Klik <color=blue><u><link=https://korak.nl/programmas?categorie=creativiteit>hier</link></u></color>
+    om ze te bekijken.

@@ -19,10 +19,11 @@ MonoBehaviour:
   - Een stuk hardlopen.
   - Schoonmaken.
   - Opruimen.
-  explanation: 'Contact hebben met anderen helpt vaak om je verbonden te voelen met
+  explanation: Contact hebben met anderen helpt vaak om je verbonden te voelen met
     de wereld. Schoonmaken hardlopen en opruimen kosten erg veel energie en iemand
     die zich leeg voelt heeft dat vaak niet. Die opties kunnen wel helpen als je
-    te gespannen bent. Je kunt hier meer tips lezen die helpen tegen je leeg voelen:
-    https://traumanet.nl/infotheek/omgaan-met-ontregeling/'
-  reference: 'Wil je leren wat jou helpt als je je niet goed voelt? Korak heeft hier
-    meerdere cursussen voor: https://korak.nl/programmas?categorie=persoonlijke-ontwikkeling'
+    te gespannen bent. Je kunt <color=blue><u><link=https://traumanet.nl/infotheek/omgaan-met-ontregeling/>hier</link></u></color>
+    meer tips lezen die helpen tegen je leeg voelen.
+  reference: Wil je leren wat jou helpt als je je niet goed voelt? Korak heeft hier
+    meerdere cursussen voor. Klik <color=blue><u><link=https://korak.nl/programmas?categorie=persoonlijke-ontwikkeling>hier</link></u></color>
+    om ze te bekijken.

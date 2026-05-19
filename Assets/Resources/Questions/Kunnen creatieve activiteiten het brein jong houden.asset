@@ -19,10 +19,12 @@ MonoBehaviour:
   - Nee.
   - X
   - X
-  explanation: 'Een studie van het Global Brain Health Institute heeft aangetoond
+  explanation: Een studie van het Global Brain Health Institute heeft aangetoond
     dat delen van je brein een paar jaar jonger blijven als je aan creatieve activiteiten
     doet. Het verbetert de communicatie tussen hersengebieden. Het maakt weinig uit
     wat de creatieve activiteit is zelfs strategische videogames hebben al snel effect.
-    Je kan hier meer lezen over de studie: https://www.gezondheid.be/artikel/ouderen/creatieve-hobbys-houden-je-hersenen-jong-39444'
-  reference: 'Wil je laagdrempelig beginnen met creatieve activiteiten? Korak heeft
-    meerdere opties: https://korak.nl/programmas?categorie=creativiteit'
+    Je kan <color=blue><u><link=https://www.gezondheid.be/artikel/ouderen/creatieve-hobbys-houden-je-hersenen-jong-39444>hier</link></u></color>
+    meer lezen over de studie.
+  reference: Wil je laagdrempelig beginnen met creatieve activiteiten? Korak heeft
+    meerdere opties. Klik <color=blue><u><link=https://korak.nl/programmas?categorie=creativiteit>hier</link></u></color>
+    om ze te bekijken.

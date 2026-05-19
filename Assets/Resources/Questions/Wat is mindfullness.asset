@@ -19,9 +19,10 @@ MonoBehaviour:
   - Een vol hoofd krijgen.
   - Mediteren en in trance raken.
   - Een Boeddhistisch ritueel.
-  explanation: 'Mindfullness is wel een vorm van mediteren en komt voort uit het
-    Boeddhisme maar het is inmiddels een wetenschappelijk onderbouwde methode om
-    een rustiger brein te ontwikkelen. In trance raken is hier geen onderdeel van.
-    Het idee is juist om aanwezig te leren zijn. Kijk hier als je meer wilt lezen:
-    https://centrumvoormindfulness.nl/kennisbank/wat-is-mindfulness-en-hoe-werkt-het-precies/'
-  reference: 'Interesse in mindfullness? Korak heeft meerdere cursussen: https://korak.nl/programmas?categorie=spiritualiteit'
+  explanation: Mindfullness is wel een vorm van mediteren en komt voort uit het Boeddhisme
+    maar het is inmiddels een wetenschappelijk onderbouwde methode om een rustiger
+    brein te ontwikkelen. In trance raken is hier geen onderdeel van. Het idee is
+    juist om aanwezig te leren zijn. Kijk <color=blue><u><link=https://centrumvoormindfulness.nl/kennisbank/wat-is-mindfulness-en-hoe-werkt-het-precies/>hier</link></u></color>
+    als je meer wilt lezen.
+  reference: 'Interesse in mindfullness? Korak heeft meerdere cursussen: <color=blue><u><link=https://korak.nl/programmas?categorie=spiritualiteit>mindfullness
+    cursussen</link></u></color>'

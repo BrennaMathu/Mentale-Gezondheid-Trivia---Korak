@@ -19,10 +19,10 @@ MonoBehaviour:
   - In je eentje sporten.
   - 1 keer per week lang bewegen.
   - Niks plannen maar gewoon af en toe gaan.
-  explanation: 'Plannen en sociale contacten leggen helpen je om echt te gaan bewegen.
+  explanation: Plannen en sociale contacten leggen helpen je om echt te gaan bewegen.
     1 keer per week heel intens bewegen levert vaak blessures op. Het is beter om
     te beginnen met iets dat niet zo intens is want dan ga je het echt doen. Alle
     beetjes helpen beter iets dan niets. Wil je tips over hoe je meer kan bewegen?
-    Kijk dan hier: https://www.gezondleven.be/themas/beweging-sedentair-gedrag/bewegingsdriehoek/8-tips'
-  reference: 'Wil je laagdrempelig bewegen met anderen? Korak heeft hier meerdere
-    opties voor: https://korak.nl/programmas?categorie=vitaliteit'
+    Klik dan <color=blue><u><link=https://www.gezondleven.be/themas/beweging-sedentair-gedrag/bewegingsdriehoek/8-tips>hier</link></u></color>.
+  reference: Wil je laagdrempelig bewegen met anderen? Klik <color=blue><u><link=https://korak.nl/programmas?categorie=vitaliteit>hier</link></u></color>
+    om de opties die Korak heeft te bekijken.

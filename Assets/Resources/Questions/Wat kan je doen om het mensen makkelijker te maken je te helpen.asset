@@ -20,12 +20,13 @@ MonoBehaviour:
   - Vaak sorry zeggen omdat je hun tijd gebruikt.
   - Meteen de hele geschiedenis vertellen van het probleem waar je hulp bij nodig
     hebt.
-  explanation: 'Mensen kunnen het makkelijkts helpen als ze een duidelijk beeld hebben
+  explanation: Mensen kunnen het makkelijkts helpen als ze een duidelijk beeld hebben
     van het probleem. Dit is natuurlijk niet nodig bij mentale gezonsheids professionals.
     Zij zijn er om met jou uit te zoeken waar je hulp bij nodig hebt. Vaak sorry
     zeggen en het verhaal te lang of kort houden zorgen voor onduidelijkheid en kunnen
     het gesprek ongemakkelijker maken. Dat is ook niet nodig want de meeste mensen
-    vinden het juist fijn om te helpen. Iedereen heeft af en toe hulp nodig. Hier
-    zijn wat tips om om hulp vragen makkelijker te maken: https://www.psychologie.nl/artikel/hulp-vragen-zo-wordt-de-drempel-lager/'
-  reference: 'Korak heeft verschillende cursussen die je kunnen helpen met ontdekken
-    waar je precies hulp bij kan gebruiken: https://korak.nl/programmas?categorie=persoonlijke-ontwikkeling'
+    vinden het juist fijn om te helpen. Iedereen heeft af en toe hulp nodig. <color=blue><u><link=https://www.psychologie.nl/artikel/hulp-vragen-zo-wordt-de-drempel-lager/>Hier</link></u></color>
+    zijn wat tips om om hulp vragen makkelijker te maken.
+  reference: Korak heeft verschillende cursussen die je kunnen helpen met ontdekken
+    waar je precies hulp bij kan gebruiken. Klik <color=blue><u><link=https://korak.nl/programmas?categorie=persoonlijke-ontwikkeling>hier</link></u></color>
+    om ze te bekijken.

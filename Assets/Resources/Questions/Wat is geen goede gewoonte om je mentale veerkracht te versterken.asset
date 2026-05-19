@@ -19,9 +19,11 @@ MonoBehaviour:
   - Regelmatig ademhalingsoefeningen doen.
   - Rusttijd inplannen.
   - Iedere dag contact hebben met een mens of dier.
-  explanation: 'Regelmatig over je grens gaan zorgt meestal juist voor uitputting
+  explanation: Regelmatig over je grens gaan zorgt meestal juist voor uitputting
     en verzwakte veerkracht. In sommige gevallen is het wel aan te raden om regelmatig
     over je grens heen te gaan maar het is verstandig om dat onder begeleiding te
-    doen. Voor meer tips om je veerkracht te versterken kan je hier kijken: https://traumanet.nl/infotheek/dagelijkse-gewoontes-die-veerkracht-versterken/'
-  reference: 'Wil je leren om je veerkracht te vergroten? Korak heeft meerdere cursussen
-    waar je hieraan kan werken: https://korak.nl/programmas?categorie=persoonlijke-ontwikkeling'
+    doen. Voor meer tips om je veerkracht te versterken kan je <color=blue><u><link=https://traumanet.nl/infotheek/dagelijkse-gewoontes-die-veerkracht-versterken/>hier</link></u></color>
+    kijken.
+  reference: Wil je leren om je veerkracht te vergroten? Korak heeft meerdere cursussen
+    waar je hieraan kan werken. Klik <color=blue><u><link=https://korak.nl/programmas?categorie=persoonlijke-ontwikkeling>hier</link></u></color>
+    om ze te bekijken.

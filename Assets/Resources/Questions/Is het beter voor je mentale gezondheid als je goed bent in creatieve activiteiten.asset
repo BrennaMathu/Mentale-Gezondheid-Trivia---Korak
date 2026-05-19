@@ -20,8 +20,9 @@ MonoBehaviour:
   - Ja.
   - X
   - X
-  explanation: 'Het maakt niet uit of je er goed in bent. Zolang je ermee bezig bent
+  explanation: Het maakt niet uit of je er goed in bent. Zolang je ermee bezig bent
     heb je de positieve effecten al. Als je meer wilt lezen over hoe creativiteit
-    mentale gezondheid verbeterd kan dat hier: https://mentalhealth-uk.org/news-and-insights/why-creativity-is-important-for-your-mental-health/'
-  reference: 'Wil je laagdrempelig beginnen met creatieve activiteiten? Korak heeft
-    meerdere opties: https://korak.nl/programmas?categorie=creativiteit'
+    mentale gezondheid verbeterd kan dat <color=blue><u><link=https://mentalhealth-uk.org/news-and-insights/why-creativity-is-important-for-your-mental-health/>hier.</link></u></color>
+  reference: Wil je laagdrempelig beginnen met creatieve activiteiten? Korak heeft
+    meerdere opties. Klik <color=blue><u><link=https://korak.nl/programmas?categorie=creativiteit>hier</link></u></color>
+    om ze te bekijken.

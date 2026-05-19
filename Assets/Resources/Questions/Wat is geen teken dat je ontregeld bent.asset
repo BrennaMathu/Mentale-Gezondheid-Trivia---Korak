@@ -19,10 +19,12 @@ MonoBehaviour:
   - Constante spanning met negatieve emoties.
   - Je vaak afgesloten en afwezig voelen.
   - Het gevoel hebben dat de wereld een onveilige plek is.
-  explanation: 'De meeste mensen maken af en toe iets mee waar ze verdrietig van
-    worden. Het wordt pas een probleem wanneer dat soort emoties een constante of
-    regelmatige aanwezigheid vormen. Het moeilijke is om te weten wanneer het meer
-    dan af en toe is. Hier kun je meer lezen over ontregeld zijn en wat je daaraan
-    kan doen: https://traumanet.nl/infotheek/de-window-of-tolerance/ '
-  reference: 'Korak heeft verschillende groepen waar je stap voor stap je mentale
-    stabiliteit kan verbeteren: https://korak.nl/programmas?categorie=persoonlijke-ontwikkeling'
+  explanation: De meeste mensen maken af en toe iets mee waar ze verdrietig van worden.
+    Het wordt pas een probleem wanneer dat soort emoties een constante of regelmatige
+    aanwezigheid vormen. Het moeilijke is om te weten wanneer het meer dan af en
+    toe is. <color=blue><u><link=https://traumanet.nl/infotheek/de-window-of-tolerance/
+    >Hier</link></u></color> kun je meer lezen over ontregeld zijn en wat je daaraan
+    kan doen.
+  reference: Korak heeft verschillende groepen waar je stap voor stap je mentale
+    stabiliteit kan verbeteren. Klik <color=blue><u><link=https://korak.nl/programmas?categorie=persoonlijke-ontwikkeling>hier</link></u></color>
+    om ze te bekijken.

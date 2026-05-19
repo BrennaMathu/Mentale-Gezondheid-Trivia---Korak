@@ -22,5 +22,6 @@ MonoBehaviour:
   explanation: Eenzaamheid beschrijft het gevoel alleen te zijn. Sociale isolatie
     betekent dat iemand alleen is. Niet iedereen vind het erg om alleen te zijn.
     Sommige mensen zijn niet alleen maar voelen zich toch eenzaam.
-  reference: "Wil je mensen ontmoeten? Kom eens langs bij de Korak \u20AC1.50 lunch:
-    https://korak.nl/programmas?categorie=vitaliteit"
+  reference: "Wil je mensen ontmoeten? Kom eens langs bij de Korak \u20AC1.50 lunch!
+    Klik <color=blue><u><link=https://korak.nl/programmas?categorie=vitaliteit>hier</link></u></color>
+    om naar het programma te gaan."

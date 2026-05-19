@@ -21,9 +21,11 @@ MonoBehaviour:
   - De kans op vallen verlagen.
   explanation: Muziek luisteren heeft geen invloed op het functioneren van de oren
     alleen het brein. Als je de muziek te hard zet gaan je oren wel slechter functioneren.
-    Volgens een onderzoek van Harvard University (https://www.health.harvard.edu/healthy-aging-and-longevity/music-and-health)
-    is muziek luisteren een warming-up voor het brein. Hierdoor kan je tijdelijk
-    beter nadenken. Dit onderzoek toont ook aan dat regelmatig bewegen op muziek
-    de kans op vallen bij ouderen verlaagd met 54%. Kalme muziek kan ook stress verlagen.
-  reference: 'Wil je met anderen praten over de emoties die muziek bij je opwekt
-    of muziek maken? Dit kan bij Korak: https://korak.nl/programmas?categorie=creativiteit'
+    Volgens een <color=blue><u><link=https://www.health.harvard.edu/healthy-aging-and-longevity/music-and-health>onderzoek
+    van Harvard University</link></u></color> is muziek luisteren een warming-up
+    voor het brein. Hierdoor kan je tijdelijk beter nadenken. Dit onderzoek toont
+    ook aan dat regelmatig bewegen op muziek de kans op vallen bij ouderen verlaagd
+    met 54%. Kalme muziek kan ook stress verlagen.
+  reference: Wil je met anderen praten over de emoties die muziek bij je opwekt of
+    muziek maken? Dit kan bij Korak! Klik <color=blue><u><link=https://korak.nl/programmas?categorie=creativiteit>hier</link></u></color>
+    om de mogelijkheden te bekijken.
