@@ -15,8 +15,8 @@ MonoBehaviour:
   category: Vitaliteit
   question: Heeft eenzaamheid invloed op mentale gezondheid?
   answers:
-  - Ja
-  - Nee
+  - Ja.
+  - Nee.
   - X
   - X
   explanation: 'Eenzaamheid komt vaak voor bij mensen met mentale gezondheidsproblemen

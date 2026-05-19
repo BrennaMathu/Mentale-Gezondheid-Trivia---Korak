@@ -10,19 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
-  m_Name: Waar helpt een teamsport niet bij
+  m_Name: Waar helpt teamsport vaak niet bij
   m_EditorClassIdentifier: 
   category: Vitaliteit
-  question: Waar helpt een teamsport niet bij?
+  question: Waar helpt teamsport vaak niet bij?
   answers:
-  - Grenzen aan leren voelen.
+  - Grenzen leren aanvoelen.
   - Leren omgaan met groepsdynamiek.
   - Sociale vaardigheden verbeteren.
   - Het gevoel hebben dat je onderdeel bent van de samenleving.
   explanation: Aan teamsport doen heeft hele goede effecten op mentale gezondheid.
     Naast de positieve effecten van bewegen krijg je groepsgevoel en doe je betere
-    sociale vaardigheden op. Het nadeel is dat het een team moet zijn waar je comfortabel
-    bent en goed je grenzen aan kan geven. Anders heeft het juist een slecht effect
-    op gezondheid.
-  reference: 'Interesse in laagdrempelig bewegen in groepsverband. Korak heeft hier
+    sociale vaardigheden op. Grenzen leren aanvoelen is er daar niet een van. Dit
+    komt doordat teamsporten vaak ingewikkeld zijn en er veel groepsdruk is. Het
+    is dan moeilijker om je grenzen te voelen. Het is belangrijk om een team of groep
+    te hebben waar je comfortabel bent en je je grenzen mag aangeven.
+  reference: 'Interesse in laagdrempelig bewegen in groepsverband? Korak heeft hier
     meerdere opties voor: https://korak.nl/programmas?categorie=vitaliteit'

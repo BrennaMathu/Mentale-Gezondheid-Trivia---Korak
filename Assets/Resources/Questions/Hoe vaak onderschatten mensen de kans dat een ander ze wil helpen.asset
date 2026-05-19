@@ -10,14 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
-  m_Name: Hoeveel onderschatten mensen de kans dat een ander ze wil helpen
+  m_Name: Hoe vaak onderschatten mensen de kans dat een ander ze wil helpen
   m_EditorClassIdentifier: 
   category: Persoonlijke ontwikkeling
-  question: Hoeveel onderschatten mensen de kans dat een ander ze wil helpen?
+  question: Hoe vaak onderschatten mensen de kans dat een ander ze wil helpen?
   answers:
   - 50%
   - 25%
   - 75%
   - 100%
-  explanation: 'Dit is het resultaat van een onderzoek van Stanford : https://psycnet.apa.org/record/2008-08084-009'
+  explanation: 'Mensen onderschatten of iemand ze wil helpen als ze daarom vragen
+    met 50% volgens een onderzoek van Stanford : https://psycnet.apa.org/record/2008-08084-009'
   reference: 

@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
-  m_Name: Praten over mentale gezondheidsproblemen helpt vaak. Wat is hier niet een
-    reden voor
+  m_Name: Praten over mentale gezondheidsproblemen helpt vaak. Wat is hier geen reden
+    voor
   m_EditorClassIdentifier: 
   category: Persoonlijke ontwikkeling
-  question: Praten over mentale gezondheidsproblemen helpt vaak. Wat is hier niet
-    een reden voor?
+  question: Praten over mentale gezondheidsproblemen helpt vaak. Wat is hier geen
+    reden voor?
   answers:
   - Als je gevoelens overdreven zijn kan de ander je dat vertellen.
   - Je kunt je gedrag spiegelen met een ander en het daardoor beter begrijpen.
@@ -23,9 +23,10 @@ MonoBehaviour:
   - Het bespreken geeft vaak een opgelucht gevoel.
   explanation: 'Gevoelens kunnen niet overdreven zijn. Als je iets voelt voel je
     het met een reden. Als jij of anderen jouw emotie(s) als te heftig ervaren kan
-    je het beste kijken waarom de reactie zo heftig is en daaraan werken. Het is
-    ook belangrijk om te weten dat niet alle gesprekken helpen. Als het niet werkt
-    kan je het gesprek beindigen en afleiding te zoeken. Hier kun je meer tips vinden
-    over het bespreken van mentale problemen: https://www.mentaalvitaal.nl/trends/praten-over-mentale-gezondheid'
-  reference: 'Als je graag wil praten over je mentale gezondheid in een veilige omgeving
+    je het beste kijken waarom de reactie zo heftig is en daaraan werken. Problemen
+    bespreken helpt omdat iets bespreken meer inzicht geeft en het vaak een opgelucht
+    gevoel geeft. Het is ook belangrijk om te weten dat niet alle gesprekken helpen.
+    Als het niet werkt kan je het gesprek beindigen en afleiding te zoeken. Hier
+    kun je meer tips vinden over het bespreken van mentale problemen: https://www.mentaalvitaal.nl/trends/praten-over-mentale-gezondheid'
+  reference: 'Als je wilt praten over je mentale gezondheid in een veilige omgeving
     heeft Korak hier meerdere groepen voor: https://korak.nl/programmas?categorie=persoonlijke-ontwikkeling'

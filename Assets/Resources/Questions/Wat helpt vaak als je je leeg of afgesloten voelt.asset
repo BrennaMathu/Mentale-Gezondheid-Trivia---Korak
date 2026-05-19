@@ -15,12 +15,14 @@ MonoBehaviour:
   category: Persoonlijke ontwikkeling
   question: Wat helpt vaak als je je leeg of afgesloten voelt?
   answers:
-  - Ergens naartoe gaan waar mensen zijn.
+  - Contact zoeken met een mens(en) of een huisdier.
   - Een stuk hardlopen.
   - Schoonmaken.
-  - Met je huisdier spelen.
-  explanation: Met mensen praten helpt vaak om je verbonden te voelen met de wereld.
-    De andere opties vereisen erg veel energie die er vaak niet is wanneer iemand
-    zich leeg voelt. Die kunnen juist helpen als je te gespannen bent.
+  - Opruimen.
+  explanation: 'Contact hebben met anderen helpt vaak om je verbonden te voelen met
+    de wereld. Schoonmaken hardlopen en opruimen kosten erg veel energie en iemand
+    die zich leeg voelt heeft dat vaak niet. Die opties kunnen wel helpen als je
+    te gespannen bent. Je kunt hier meer tips lezen die helpen tegen je leeg voelen:
+    https://traumanet.nl/infotheek/omgaan-met-ontregeling/'
   reference: 'Wil je leren wat jou helpt als je je niet goed voelt? Korak heeft hier
     meerdere cursussen voor: https://korak.nl/programmas?categorie=persoonlijke-ontwikkeling'

@@ -15,8 +15,8 @@ MonoBehaviour:
   category: Vitaliteit
   question: Helpt bewegen met het verwerken van emoties?
   answers:
-  - Ja
-  - Nee
+  - Ja.
+  - Nee.
   - X
   - X
   explanation: 'Als je gaat bewegen geef je tegelijkertijd je brein de tijd om over

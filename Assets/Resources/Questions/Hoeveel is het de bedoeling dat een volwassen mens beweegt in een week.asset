@@ -15,13 +15,14 @@ MonoBehaviour:
   category: Vitaliteit
   question: Hoeveel is het de bedoeling dat een volwassen mens beweegt in een week?
   answers:
-  - 150 minuten.
-  - 60 minuten.
-  - 90 minuten.
-  - 250 minuten.
-  explanation: 'Dit is de richtlijn van het kenniscentrum sport en bewegen. Deze
-    richtlijn bevat ook bot- en spierversterkende activiteiten twee keer per week.
-    Het is niet erg als dit (nog) niet lukt. Ieder beetje bewegen helpt al! Hier
-    kun je meer lezen over de richtlijnen: https://www.kenniscentrumsportenbewegen.nl/beweegrichtlijnen/#beweegrichtlijnen'
+  - 2.5 uur.
+  - 1 uur.
+  - 1.5 uur.
+  - 4 uur.
+  explanation: 'Volgens het kenniscentrum sport en bewegen is het voor een volwassen
+    mens het best om 2.5 uur per week te bewegen. Deze richtlijn bevat ook bot- en
+    spierversterkende activiteiten twee keer per week. Het is niet erg als dit (nog)
+    niet lukt. Ieder beetje bewegen helpt al! Hier kun je meer lezen over de richtlijnen:
+    https://www.kenniscentrumsportenbewegen.nl/beweegrichtlijnen/#beweegrichtlijnen'
   reference: 'Wil je laagdrempelig bewegen met anderen? Korak heeft hier meerdere
     opties voor: https://korak.nl/programmas?categorie=vitaliteit'

@@ -16,8 +16,8 @@ MonoBehaviour:
   question: Is het beter voor je mentale gezondheid als je goed bent in creatieve
     activiteiten?
   answers:
-  - Ja.
   - Nee.
+  - Ja.
   - X
   - X
   explanation: 'Het maakt niet uit of je er goed in bent. Zolang je ermee bezig bent

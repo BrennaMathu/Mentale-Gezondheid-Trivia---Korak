@@ -10,19 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
-  m_Name: Waarvan is niet bewezen dat geluid kan helpen
+  m_Name: Waar kunnen bepaalde geluidsgolven niet bij helpen
   m_EditorClassIdentifier: 
   category: Spiritualiteit
-  question: Waarvan is niet bewezen dat geluid kan helpen?
+  question: Waar kunnen bepaalde geluidsgolven niet bij helpen?
   answers:
   - De griep verhelpen.
   - Ademhaling verdiepen.
   - Stresshormonen verlagen.
   - Spierontspanning bevorderen.
   explanation: 'Verschillende toonhoogtes hebben andere effecten op mensen en het
-    kan veel helpen bij het ontspannen. Naar toonhoogtes luisteren geeft veel mensen
-    een gvoel van rust. Er is natuurijk wel een limiet hieraan. Het kan geen medische
-    behandeling vervangen. Hier kun je meer leren over die verschillende klanken:
-    https://holistischgeneescentrum.com/helende-frequenties/'
+    kan veel helpen bij het ontspannen. Naar toonhoogtes luisteren kan stresshormonen
+    verlagen spierontspanning bevorderen en ademhaling verdiepen. Er is natuurijk
+    wel een limiet hieraan. Het kan niet de griep verhelpen. Hier kun je meer leren
+    over die verschillende klanken: https://holistischgeneescentrum.com/helende-frequenties/'
   reference: 'Interesse in ontspannen met een geluidservaring? Korak heeft hier workshops
     voor: https://korak.nl/programmas?categorie=spiritualiteit'

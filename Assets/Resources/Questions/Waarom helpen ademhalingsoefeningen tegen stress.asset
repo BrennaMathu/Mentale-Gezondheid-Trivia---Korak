@@ -15,13 +15,15 @@ MonoBehaviour:
   category: Vitaliteit
   question: Waarom helpen ademhalingsoefeningen tegen stress?
   answers:
-  - Je hartslag verlaagd.
+  - Je hartslag verlaagt.
   - Je denkt minder na.
   - Door sneller ademen functioneert je brein beter.
   - Het verbetert je concentratie.
   explanation: 'Langzamere ademhaling leidt tot een lagere hartslag waardoor stress
-    afneemt. Hierdoor kan je brein juist helderder denken. Ademhalingsoefeningen
-    kunnen je concentratie waarschijnlijk wel verbeteren maar dat helpt niet direct
-    met stress. In dit artikel kan je hier meer over lezen: https://www.universiteitleiden.nl/nieuws/2023/12/hoe-langzamer-ademen-echt-helpt-tegen-stress'
+    afneemt. Hierdoor kan je brein helderder denken. Bij een snelle ademhaling gaat
+    je brein vooral sneller denken en niet beter. Ademhalingsoefeningen zorgen niet
+    dat je minder nadenkt. Ademhalingsoefeningen kunnen je concentratie waarschijnlijk
+    wel verbeteren maar dat helpt niet direct met stress. In dit artikel kan je hier
+    meer over lezen: https://www.universiteitleiden.nl/nieuws/2023/12/hoe-langzamer-ademen-echt-helpt-tegen-stress'
   reference: 'Korak heeft cursussen waar ademhaling een onderdeel van is. Yoga bijvoorbeeld:
     https://korak.nl/programmas?categorie=vitaliteit'

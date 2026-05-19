@@ -10,18 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
-  m_Name: Wat is niet een reden dat creatieve activiteiten mentale gezondheid verbeteren
+  m_Name: Wat is geen reden dat creatieve activiteiten mentale gezondheid verbeteren
   m_EditorClassIdentifier: 
   category: Creativiteit
-  question: Wat is niet een reden dat creatieve activiteiten mentale gezondheid verbeteren?
+  question: Wat is geen reden dat creatieve activiteiten mentale gezondheid verbeteren?
   answers:
   - Het maakt dat anderen je respecteren.
   - Ze helpen met het verkennen van je emoties.
   - Het geeft een gevoel van voldoening.
   - Het verhoogt zelfvertrouwen.
   explanation: 'Er zijn wel mensen die je meer respecteren als je aan creatieve activiteiten
-    doet maar dit is niet iets dat je mentale gezondheid sterk verbeterd. Als je
-    meer wilt lezen over hoe creativiteit mentale gezondheid verbeterd kan dat hier:
-    https://mentalhealth-uk.org/news-and-insights/why-creativity-is-important-for-your-mental-health/'
+    doet maar dit is niet iets dat je mentale gezondheid sterk verbetert. Ze helpen
+    wel het verkennen van emoties en ze geven zelfvertrouwen en een gevoel van voldoening.
+    Als je meer wilt lezen over hoe creativiteit mentale gezondheid verbeterd kan
+    dat hier: https://mentalhealth-uk.org/news-and-insights/why-creativity-is-important-for-your-mental-health/'
   reference: 'Wil je beginnen met creatieve activiteiten? Korak heeft meerdere opties:
     https://korak.nl/programmas?categorie=creativiteit'
