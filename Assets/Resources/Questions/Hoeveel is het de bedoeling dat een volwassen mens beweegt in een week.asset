@@ -15,10 +15,10 @@ MonoBehaviour:
   category: Vitaliteit
   question: Hoeveel is het de bedoeling dat een volwassen mens beweegt in een week?
   answers:
-  - 2.5 uur.
-  - 1 uur.
-  - 1.5 uur.
-  - 4 uur.
+  - 2.5 uur en 2 keer spier- en botversterkende activiteiten.
+  - 1 uur en 2 keer spier- en botversterkende activiteiten.
+  - 1.5 uur en 2 keer spier- en botversterkende activiteiten.
+  - 4 uur en 2 keer spier- en botversterkende activiteiten.
   explanation: Volgens het kenniscentrum sport en bewegen is het voor een volwassen
     mens het best om 2.5 uur per week te bewegen. Deze richtlijn bevat ook bot- en
     spierversterkende activiteiten twee keer per week. Het is niet erg als dit (nog)

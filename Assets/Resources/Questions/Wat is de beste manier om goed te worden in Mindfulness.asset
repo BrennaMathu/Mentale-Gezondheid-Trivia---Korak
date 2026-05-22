@@ -10,19 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
-  m_Name: Wat is de beste manier om goed te worden in Mindfullness
+  m_Name: Wat is de beste manier om goed te worden in Mindfulness
   m_EditorClassIdentifier: 
   category: Spiritualiteit
-  question: Wat is de beste manier om goed te worden in Mindfullness?
+  question: Wat is de beste manier om goed te worden in Mindfulness?
   answers:
   - Als je regelmatig oefent.
   - Als je er talent voor hebt.
   - Als je altijd lang mediteert.
   - Als je streng bent voor jezelf.
   explanation: Het belangrijkste is dat je vaak oefent. Beter vaak kort dan soms
-    lang. Sommige mensen zijn beter in mindfullness dan anderen maar oefenen is veel
+    lang. Sommige mensen zijn beter in mindfulness dan anderen maar oefenen is veel
     belangrijker. Streng zijn voor jezelf werkt averechts. Lichte ontspanning en
     acceptatie zijn essentieel. Klik <color=blue><u><link=https://demindfulnessacademie.nl/5-tips-om-weer-te-beginnen-met-mindfulness/>hier</link></u></color>
-    voor tips om te beginnen met mindfullnes.
-  reference: 'Interesse in mindfullness? Korak heeft meerdere cursussen: <color=blue><u><link=https://korak.nl/programmas?categorie=spiritualiteit>mindfullness
+    voor tips om te beginnen met mindfulnes.
+  reference: 'Interesse in mindfulness? Korak heeft meerdere cursussen: <color=blue><u><link=https://korak.nl/programmas?categorie=spiritualiteit>mindfulness
     cursussen</link></u></color>'

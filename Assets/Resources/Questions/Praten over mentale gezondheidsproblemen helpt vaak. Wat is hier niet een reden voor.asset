@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
-  m_Name: Praten over mentale gezondheidsproblemen helpt vaak. Wat is hier geen reden
-    voor
+  m_Name: Praten over mentale gezondheidsproblemen helpt vaak. Wat is hier niet een
+    reden voor
   m_EditorClassIdentifier: 
   category: Persoonlijke ontwikkeling
-  question: Praten over mentale gezondheidsproblemen helpt vaak. Wat is hier geen
-    reden voor?
+  question: Praten over mentale gezondheidsproblemen helpt vaak. Wat is hier niet
+    een reden voor?
   answers:
   - Als je gevoelens overdreven zijn kan de ander je dat vertellen.
   - Je kunt je gedrag spiegelen met een ander en het daardoor beter begrijpen.

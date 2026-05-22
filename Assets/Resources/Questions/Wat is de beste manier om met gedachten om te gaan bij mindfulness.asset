@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
-  m_Name: Wat is de beste manier om met gedachten om te gaan bij Mindfullness
+  m_Name: Wat is de beste manier om met gedachten om te gaan bij mindfulness
   m_EditorClassIdentifier: 
   category: Spiritualiteit
-  question: Wat is de beste manier om met gedachten om te gaan bij Mindfullness?
+  question: Wat is de beste manier om met gedachten om te gaan bij mindfulness?
   answers:
   - Ze langzaam aan je voorbij laten gaan.
   - Gedachten wegdrukken.
@@ -22,5 +22,5 @@ MonoBehaviour:
   explanation: Het beste is om je gedachten te observeren en te accepteren dat ze
     er zijn en hierdoor langzaam patronen te leren herkennen. Op gedachten focussen
     ze wegdrukken of bewust aan iets anders gaan denken helpt juist niet.
-  reference: 'Interesse in mindfullness? Korak heeft meerdere cursussen: <color=blue><u><link=https://korak.nl/programmas?categorie=spiritualiteit>mindfullness
+  reference: 'Interesse in mindfulness? Korak heeft meerdere cursussen: <color=blue><u><link=https://korak.nl/programmas?categorie=spiritualiteit>mindfulness
     cursussen</link></u></color>'

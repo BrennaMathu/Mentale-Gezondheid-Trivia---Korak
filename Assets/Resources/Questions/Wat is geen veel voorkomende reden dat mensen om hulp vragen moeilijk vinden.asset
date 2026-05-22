@@ -16,14 +16,14 @@ MonoBehaviour:
   question: Wat is geen veel voorkomende reden dat mensen om hulp vragen moeilijk
     vinden?
   answers:
-  - Ze zijn bang dat die persoon hun later om hulp gaat vragen.
+  - Ze zijn bang dat die persoon hen later om hulp gaat vragen.
   - Ze denken dat ze incapabel overkomen.
   - Ze zijn bang om afgewezen te worden.
   - Ze willen anderen niet belasten.
   explanation: <color=blue><u><link=https://news.stanford.edu/stories/2022/09/asking-help-hard-people-want-help-realize>Onderzoek
     van Stanford</link></u></color> toont aan dat mensen erg onderschatten hoe graag
     anderen willen helpen. De meeste mensen voelen zich juist goed als ze anderen
-    kunnen helpen. De meeste mensen zijn dus niet bang dat iemand hun later om hulp
+    kunnen helpen. De meeste mensen zijn dus niet bang dat iemand hen later om hulp
     vraagt. Ze zijn wel bang dat ze incapabel overkomen. Ze zijn ook bang om afgewezen
     te worden en willen anderen niet belasten.
   reference: 

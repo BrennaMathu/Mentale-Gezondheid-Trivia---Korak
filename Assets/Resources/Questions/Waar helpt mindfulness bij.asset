@@ -10,20 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
-  m_Name: Waar helpt Mindfullness bij
+  m_Name: Waar helpt mindfulness bij
   m_EditorClassIdentifier: 
   category: Spiritualiteit
-  question: Waar helpt Mindfullness bij?
+  question: Waar helpt mindfulness bij?
   answers:
   - Bewustheid van je gedachten patronen.
   - Bepalen waar je aan denkt.
   - Een stil brein hebben.
   - Je brein voller maken.
   explanation: 'Je brein wordt niet voller of stiller en je kan ook niet bepalen
-    waar je aan denkt door vaak Mindfullness te oefenen. Je wordt alleen bewuster
+    waar je aan denkt door vaak mindfulness te oefenen. Je wordt alleen bewuster
     van je gedachtenpatronen. Dat helpt je beter te reageren op de gedachtes die
     je hebt. Je hebt weinig invloed over wat je denkt maar je hebt wel invloed over
     wat je voelt door deze gedachten. Herkennen waarom je ze denkt helpt hier al
     bij. '
-  reference: 'Interesse in mindfullness? Korak heeft meerdere cursussen: <color=blue><u><link=https://korak.nl/programmas?categorie=spiritualiteit>mindfullness
+  reference: 'Interesse in mindfulness? Korak heeft meerdere cursussen: <color=blue><u><link=https://korak.nl/programmas?categorie=spiritualiteit>mindfulness
     cursussen</link></u></color>'
