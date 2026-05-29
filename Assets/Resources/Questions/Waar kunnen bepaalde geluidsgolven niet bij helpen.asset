@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Waar kunnen bepaalde geluidsgolven niet bij helpen
   m_EditorClassIdentifier: 
   category: Spiritualiteit
-  question: Waar kunnen bepaalde geluidsgolven niet bij helpen?
+  question: Waar kunnen bepaalde geluidsgolven <u>niet</u> bij helpen?
   answers:
   - De griep verhelpen.
   - Ademhaling verdiepen.

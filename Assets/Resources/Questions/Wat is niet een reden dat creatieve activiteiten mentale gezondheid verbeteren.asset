@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: Wat is niet een reden dat creatieve activiteiten mentale gezondheid verbeteren
   m_EditorClassIdentifier: 
   category: Creativiteit
-  question: Wat is niet een reden dat creatieve activiteiten mentale gezondheid verbeteren?
+  question: Wat is <u>niet</u> een reden dat creatieve activiteiten mentale gezondheid
+    verbeteren?
   answers:
   - Het maakt dat anderen je respecteren.
   - Ze helpen met het verkennen van je emoties.

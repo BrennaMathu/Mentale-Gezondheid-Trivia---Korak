@@ -37,15 +37,8 @@ public class CSVtoSO
                 questionData.answers[i] = splitData[2 + i];
             }
             
-            //Create the file name, remove the question mark if present to prevent errors.
-            if (questionData.question.Contains("?"))
-            {
-                questionData.name = questionData.question.Remove(questionData.question.IndexOf("?"));
-            }
-            else
-            {
-                questionData.name = questionData.question;
-            }
+            //Create the file name, remove the question mark and underline markers if present to prevent errors.
+            questionData.name = ReturnAssetName(questionData.question);
             
             //Save the question in the AssetDatabase.
             AssetDatabase.CreateAsset(questionData, $"Assets/Resources/Questions/{questionData.name}.asset");
@@ -54,5 +47,21 @@ public class CSVtoSO
         AssetDatabase.DeleteAsset($"Assets/Resources/Questions/QUESTION.asset");
         //Save the Assets in the database.
         AssetDatabase.SaveAssets();
+    }
+
+    private static string ReturnAssetName(string assetName)
+    {
+       string newAssetName = assetName;
+       if (assetName.Contains("?"))
+       {
+           newAssetName = newAssetName.Remove(newAssetName.IndexOf("?"));
+       }
+
+       if (assetName.Contains("<"))
+       {
+           newAssetName = newAssetName.Replace("<u>", "");
+           newAssetName = newAssetName.Replace("</u>", "");
+       }
+       return newAssetName;
     }
 }

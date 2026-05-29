@@ -80,7 +80,8 @@ public class GameManager : MonoBehaviour
     {
         score = 0;
         scoreText.text = "Score: " + score;
-        powerUpManager.ChangeCoinValue(-powerUpManager.coinValue);
+        //removed coin reset for a sense of progression.
+        //powerUpManager.ChangeCoinValue(-powerUpManager.coinValue);
         SetButtonsActive();
         AnswerPanelInactive();
         finishedQuestionsPanel.SetActive(false);

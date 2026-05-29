@@ -14,7 +14,7 @@ MonoBehaviour:
     reden voor
   m_EditorClassIdentifier: 
   category: Persoonlijke ontwikkeling
-  question: Praten over mentale gezondheidsproblemen helpt vaak. Wat is hier niet
+  question: Praten over mentale gezondheidsproblemen helpt vaak. Wat is hier <u>niet</u>
     een reden voor?
   answers:
   - Als je gevoelens overdreven zijn kan de ander je dat vertellen.

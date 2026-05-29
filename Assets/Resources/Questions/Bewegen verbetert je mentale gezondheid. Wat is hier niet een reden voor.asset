@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: Bewegen verbetert je mentale gezondheid. Wat is hier niet een reden voor
   m_EditorClassIdentifier: 
   category: Vitaliteit
-  question: Bewegen verbetert je mentale gezondheid. Wat is hier niet een reden voor?
+  question: Bewegen verbetert je mentale gezondheid. Wat is hier <u>niet</u> een
+    reden voor?
   answers:
   - Het verhoogt adrenaline.
   - Het verbetert je zelfvertrouwen.

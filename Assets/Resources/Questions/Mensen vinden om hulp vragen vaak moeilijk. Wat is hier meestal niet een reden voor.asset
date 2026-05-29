@@ -10,11 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
-  m_Name: Wat is geen veel voorkomende reden dat mensen om hulp vragen moeilijk vinden
+  m_Name: Mensen vinden om hulp vragen vaak moeilijk. Wat is hier meestal niet een
+    reden voor
   m_EditorClassIdentifier: 
   category: Persoonlijke ontwikkeling
-  question: Wat is geen veel voorkomende reden dat mensen om hulp vragen moeilijk
-    vinden?
+  question: Mensen vinden om hulp vragen vaak moeilijk. Wat is hier meestal <u>niet</u>
+    een reden voor?
   answers:
   - Ze zijn bang dat die persoon hen later om hulp gaat vragen.
   - Ze denken dat ze incapabel overkomen.

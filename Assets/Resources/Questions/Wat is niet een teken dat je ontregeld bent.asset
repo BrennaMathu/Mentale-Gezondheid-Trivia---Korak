@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Wat is niet een teken dat je ontregeld bent
   m_EditorClassIdentifier: 
   category: Persoonlijke ontwikkeling
-  question: Wat is niet een teken dat je ontregeld bent?
+  question: Wat is <u>niet</u> een teken dat je ontregeld bent?
   answers:
   - Af en toe verdrietig zijn.
   - Constante spanning met negatieve emoties.
