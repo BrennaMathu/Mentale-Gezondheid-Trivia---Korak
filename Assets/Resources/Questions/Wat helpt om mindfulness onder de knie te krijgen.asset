@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Wat helpt om mindfulness onder de knie te krijgen
+  m_EditorClassIdentifier: 
+  category: Spiritualiteit
+  question: Wat helpt om mindfulness onder de knie te krijgen?
+  answers:
+  - Regelmatig oefenen.
+  - Alleen oefenen als je gestrest bent.
+  - Proberen nergens aan te denken.
+  - Zo lang mogelijk mediteren.
+  explanation: Mindfulness leer je vooral door regelmatig te oefenen. Het doel is
+    niet om nergens aan te denken of om zo lang mogelijk te mediteren. Door kort
+    en regelmatig te oefenen
+  reference: ' leer je steeds beter op te merken wat er in je omgaat en hoe je daarop
+    reageert. Meer tips om met mindfulness te beginnen vind je <color=blue><u><link=https://demindfulnessacademie.nl/5-tips-om-weer-te-beginnen-met-mindfulness/>hier</link></u></color>.'

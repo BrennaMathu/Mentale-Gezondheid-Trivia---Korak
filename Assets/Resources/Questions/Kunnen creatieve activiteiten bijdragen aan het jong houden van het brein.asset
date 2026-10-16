@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Kunnen creatieve activiteiten bijdragen aan het jong houden van het brein
+  m_EditorClassIdentifier: 
+  category: Creativiteit
+  question: Kunnen creatieve activiteiten bijdragen aan het jong houden van het brein?
+  answers:
+  - Ja.
+  - Nee.
+  - X
+  - X
+  explanation: "Onderzoek van het Global Brain Health Institute suggereert dat creatieve
+    activiteiten kunnen bijdragen aan het gezond houden van het brein. Daarbij kunnen
+    verschillende hersengebieden met elkaar blijven samenwerken. Het lijkt bovendien
+    niet alleen te gaan om \xE9\xE9n specifieke creatieve activiteit. Ook andere
+    activiteiten waarbij je actief nadenkt en iets maakt of oplost"
+  reference: ' kunnen bijdragen. Je kunt <color=blue><u><link=https://www.gezondheid.be/artikel/ouderen/creatieve-hobbys-houden-je-hersenen-jong-39444>hier</link></u></color>
+    meer lezen over de studie.'

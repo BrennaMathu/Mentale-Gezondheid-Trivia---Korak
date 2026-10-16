@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Hoeveel procent van de volwassenen met mentale klachten praat daarover
+    met anderen
+  m_EditorClassIdentifier: 
+  category: Persoonlijke ontwikkeling
+  question: Hoeveel procent van de volwassenen met mentale klachten praat daarover
+    met anderen?
+  answers:
+  - 50%
+  - 90%
+  - 75%
+  - 25%
+  explanation: Volgens een representatieve steekproef van Psychology Magazine praat
+    ongeveer 50% van de mensen met mentale klachten daarover. In die steekproef gaf
+    een groot deel van de deelnemers aan in het leven met mentale gezondheidsklachten
+    te maken te hebben gehad. Ondanks dat zulke klachten veel voorkomen
+  reference: ' is praten erover voor veel mensen nog steeds lastig. Klik <color=blue><u><link=https://www.psychologie.nl/artikel/iedereen-heeft-wel-iets/>hier</link></u></color>
+    om het hele artikel te lezen.'

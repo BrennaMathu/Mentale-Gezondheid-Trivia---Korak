@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Welke uitspraak past het minst goed bij waarom praten over mentale gezondheid
+    kan helpen
+  m_EditorClassIdentifier: 
+  category: Persoonlijke Ontwikkeling
+  question: Welke uitspraak past het minst goed bij waarom praten over mentale gezondheid
+    kan helpen?
+  answers:
+  - Als je gevoelens overdreven zijn
+  - ' kan de ander je dat vertellen.'
+  - Door erover te praten
+  - ' krijg je meer inzicht.'
+  explanation: Het bespreken ervan kan een opgelucht gevoel geven.
+  reference: Je kunt je gedrag met dat van een ander vergelijken en het daardoor
+    beter begrijpen.

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Wat kun je doen om het voor anderen makkelijker te maken om je te helpen
+  m_EditorClassIdentifier: 
+  category: Persoonlijke ontwikkeling
+  question: Wat kun je doen om het voor anderen makkelijker te maken om je te helpen?
+  answers:
+  - Duidelijk aangeven waarbij je hulp nodig hebt.
+  - De vraag zo kort mogelijk houden.
+  - Vaak sorry zeggen omdat je hun tijd gebruikt.
+  - Meteen de hele geschiedenis van het probleem vertellen.
+  explanation: Anderen kunnen je meestal beter helpen als duidelijk is waarbij je
+    hulp nodig hebt. Je hoeft daarbij niet meteen je hele verhaal te vertellen. Een
+    concrete vraag maakt het voor de ander makkelijker om te bepalen wat die kan
+    doen. Vaak sorry zeggen omdat je hulp vraagt
+  reference: ' is meestal niet nodig. Ook een heel korte of juist zeer uitgebreide
+    uitleg kan het lastiger maken om de kern van je hulpvraag te begrijpen. <color=blue><u><link=https://www.psychologie.nl/artikel/hulp-vragen-zo-wordt-de-drempel-lager/>Hier</link></u></color>
+    vind je tips om hulp vragen makkelijker te maken.'

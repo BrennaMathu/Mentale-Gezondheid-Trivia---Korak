@@ -4,7 +4,7 @@ using System.IO;
 
 public class CSVtoSO
 {
-    private static string questionsPath = "/Editor/Questions.csv";
+    private static string questionsPath = "/Editor/QuestionsRevised.csv";
     private static int numberOfAnswers = 4;
 
     [MenuItem("Utilities/Generate Questions")]

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Kunnen creatieve activiteiten de kans op depressieve klachten en burn-out
+    verminderen
+  m_EditorClassIdentifier: 
+  category: Creativiteit
+  question: Kunnen creatieve activiteiten de kans op depressieve klachten en burn-out
+    verminderen?
+  answers:
+  - Ja.
+  - Nee.
+  - X
+  - X
+  explanation: Onderzoek naar creativiteit en mentale gezondheid laat zien dat creatieve
+    activiteiten kunnen samenhangen met een beter welzijn en minder depressieve klachten.
+    Ook kunnen creatieve activiteiten gevoelens van plezier en voldoening versterken.
+    De effecten verschillen per persoon en creatieve activiteiten zijn geen vervanging
+    voor professionele hulp wanneer die nodig is. Meer informatie hierover vind je
+    in het <color=blue><u><link=https://mentalhealth-uk.org/news-and-insights/why-creativity-is-important-for-your-mental-health/>onderzoek
+    van de Journal of Positive Psychology</link></u></color>.
+  reference: Wil je beginnen met creatieve activiteiten? Korak heeft verschillende
+    mogelijkheden. Klik <color=blue><u><link=https://korak.nl/programmas?categorie=creativiteit>hier</link></u></color>
+    om ze te bekijken.;

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Waar kan mindfulness bij helpen
+  m_EditorClassIdentifier: 
+  category: Spiritualiteit
+  question: Waar kan mindfulness bij helpen?
+  answers:
+  - Bewustwording van gedachtenpatronen
+  - Bepalen waar je aan denkt.
+  - Een stil brein hebben.
+  - Je brein voller maken.
+  explanation: Door mindfulness te beoefenen
+  reference: ' krijg je niet per se een stiller hoofd en kun je ook niet bepalen
+    welke gedachten bij je opkomen. Wel kun je je bewuster worden van je gedachtenpatronen.
+    Daardoor leer je gedachten eerder herkennen en kun je bewuster kiezen hoe je
+    ermee omgaat. Je hebt vaak weinig invloed op welke gedachten ontstaan'

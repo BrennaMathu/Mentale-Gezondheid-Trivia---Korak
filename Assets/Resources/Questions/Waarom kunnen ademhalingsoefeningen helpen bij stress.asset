@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Waarom kunnen ademhalingsoefeningen helpen bij stress
+  m_EditorClassIdentifier: 
+  category: Vitaliteit
+  question: Waarom kunnen ademhalingsoefeningen helpen bij stress?
+  answers:
+  - Je hartslag kan dalen.
+  - Je denkt minder na.
+  - Door sneller te ademen functioneert je brein beter.
+  - Het verbetert altijd je concentratie.
+  explanation: Langzamer en rustiger ademen kan helpen om je lichaam tot rust te
+    brengen. Daarbij kan je hartslag dalen en kan de lichamelijke reactie op stress
+    afnemen. Ademhalingsoefeningen zorgen er niet voor dat je minder gedachten hebt.
+    Ze kunnen wel helpen om je aandacht te richten en rustiger te reageren. In <color=blue><u><link=https://www.universiteitleiden.nl/nieuws/2023/12/hoe-langzamer-ademen-echt-helpt-tegen-stress>dit</link></u></color>
+    artikel kun je hier meer over lezen.
+  reference: Korak heeft cursussen waarin ademhaling een onderdeel is

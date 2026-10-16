@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Welke uitspraak geeft een andere mogelijke reden waarom mensen het moeilijk
+    vinden om hulp te vragen
+  m_EditorClassIdentifier: 
+  category: Persoonlijke Ontwikkeling
+  question: Welke uitspraak geeft een andere mogelijke reden waarom mensen het moeilijk
+    vinden om hulp te vragen?
+  answers:
+  - Ze zijn bang dat die persoon hen later om hulp zal vragen.
+  - Ze willen anderen niet tot last zijn.
+  - Ze schamen zich voor wat er speelt.
+  - Ze willen hun problemen liever zelf oplossen.
+  explanation: Mensen kunnen verschillende redenen hebben om geen hulp te vragen.
+    Ze willen anderen bijvoorbeeld niet tot last zijn
+  reference: ' schamen zich voor wat er speelt of vinden dat ze hun problemen zelf
+    moeten oplossen. Ook kan iemand bang zijn dat hulp vragen verwachtingen schept
+    of tot een wederzijdse hulpvraag leidt. Meer informatie over hulp vragen vind
+    je <color=blue><u><link=https://www.psychologie.nl/artikel/iedereen-heeft-wel-iets/>hier</link></u></color>.'

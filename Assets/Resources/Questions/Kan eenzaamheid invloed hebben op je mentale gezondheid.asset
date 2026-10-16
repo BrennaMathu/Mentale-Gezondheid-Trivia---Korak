@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Kan eenzaamheid invloed hebben op je mentale gezondheid
+  m_EditorClassIdentifier: 
+  category: Vitaliteit
+  question: Kan eenzaamheid invloed hebben op je mentale gezondheid?
+  answers:
+  - Ja.
+  - Nee.
+  - X
+  - X
+  explanation: "Eenzaamheid en mentale gezondheid kunnen elkaar be\xEFnvloeden. Mensen
+    die zich langdurig eenzaam voelen"
+  reference: ' hebben een grotere kans op problemen met hun mentale gezondheid. Andersom
+    kunnen mentale problemen er ook voor zorgen dat iemand zich terugtrekt en zich
+    eenzamer gaat voelen.'

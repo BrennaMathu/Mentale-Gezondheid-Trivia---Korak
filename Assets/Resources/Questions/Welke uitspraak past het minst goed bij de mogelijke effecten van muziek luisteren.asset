@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5b59126ad06f04493620232e32d275, type: 3}
+  m_Name: Welke uitspraak past het minst goed bij de mogelijke effecten van muziek
+    luisteren
+  m_EditorClassIdentifier: 
+  category: Creativiteit
+  question: Welke uitspraak past het minst goed bij de mogelijke effecten van muziek
+    luisteren?
+  answers:
+  - Je oren beter laten functioneren.
+  - Beter kunnen nadenken.
+  - Stress verminderen.
+  - De kans op vallen verkleinen.
+  explanation: Muziek luisteren verbetert de werking van je oren niet. Het kan wel
+    invloed hebben op je brein en stemming. Volgens <color=blue><u><link=https://www.health.harvard.edu/healthy-aging-and-longevity/music-and-health>onderzoek
+    van Harvard University</link></u></color> kan muziek onder andere helpen bij
+    ontspanning en kan het tijdelijk invloed hebben op aandacht en denken. Ook is
+    er onderzoek dat laat zien dat bewegen op muziek de kans op vallen bij ouderen
+    kan verkleinen. Zet muziek niet te hard
+  reference: ' omdat hard geluid je gehoor kan beschadigen.'
